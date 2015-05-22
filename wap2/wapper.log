@@ -1,0 +1,40 @@
+2015-03-21 10:52:52,553 Wapper started...
+2015-03-21 10:52:52,553 Implicit declaration of parallel layers in a tuple is deprecated, pass a YowParallelLayer instead
+2015-03-21 10:57:30,645 Starting new HTTP connection (1): priapo
+2015-03-21 10:57:30,961 "393494160725@s.whatsapp.net","89","Fermata 89 ROCCAVIONElinea 211:08* 11:16*  * in tempo reale"
+2015-03-21 11:01:11,463 Starting new HTTP connection (1): priapo
+2015-03-21 11:01:11,552 "393494160725@s.whatsapp.net","740","Fermata 740 CARDUCCIlinea 6611:01* 11:30*  linea 17B11:13* 11:39  linea 1711:26* 11:52  * in tempo reale"
+2015-03-21 11:01:46,074 Starting new HTTP connection (1): priapo
+2015-03-21 11:01:46,168 "393494160725@s.whatsapp.net","88","Fermata 88 CHIESA SALUTElinea 211:02* 11:14*  * in tempo reale"
+2015-03-21 11:02:44,040 Starting new HTTP connection (1): priapo
+2015-03-21 11:02:44,138 "393423841870@s.whatsapp.net","330","Fermata 330 CABOTOlinea 6411:06* 11:19*  linea 511:07* 11:21*  linea 4211:09* 11:22*  * in tempo reale"
+2015-03-21 11:19:30,585 Starting new HTTP connection (1): priapo
+2015-03-21 11:19:31,155 "393494160725@s.whatsapp.net","89","Fermata 89 ROCCAVIONElinea 211:26* 11:40*  * in tempo reale"
+2015-03-27 16:33:23,551 Wapper started...
+2015-03-27 16:33:23,551 Implicit declaration of parallel layers in a tuple is deprecated, pass a YowParallelLayer instead
+2015-03-27 16:33:43,161 Starting new HTTP connection (1): priapo
+2015-03-27 16:33:43,190 "393494160725@s.whatsapp.net","88","Fermata 88 CHIESA SALUTElinea 216:34 16:40*  * in tempo reale"
+2015-03-27 16:34:26,110 Starting new HTTP connection (1): priapo
+2015-03-27 16:34:26,144 "393494160725@s.whatsapp.net","89","Fermata 89 ROCCAVIONElinea 216:46 16:58*  linea 2216:47  * in tempo reale"
+2015-03-27 17:27:38,879 Wapper started...
+2015-03-27 17:27:38,880 Implicit declaration of parallel layers in a tuple is deprecated, pass a YowParallelLayer instead
+2015-03-27 17:32:17,495 Wapper started...
+2015-03-27 17:32:17,495 Implicit declaration of parallel layers in a tuple is deprecated, pass a YowParallelLayer instead
+2015-03-27 17:33:04,525 Starting new HTTP connection (1): priapo
+2015-03-27 17:33:04,577 "393494160725@s.whatsapp.net","22","Fermata 22 PALMIERIlinea 36 direzione  corso Francia/via Don Murialdo(Rivoli)  Nessun passaggio nelle prox 6 ore.linea 101 Metrobus direzione  via de Amicis(Stazione Metro Fermi Collegno) Nessun passaggio nelle prox 6 ore.linea Night Buster 1 arancio direzione  piazza Massaua  Nessun passaggio nelle prox 6 ore.  "
+2015-03-27 17:35:14,334 Wapper started...
+2015-03-27 17:35:14,334 Implicit declaration of parallel layers in a tuple is deprecated, pass a YowParallelLayer instead
+2015-03-27 17:40:00,978 Wapper started...
+2015-03-27 17:40:00,978 Implicit declaration of parallel layers in a tuple is deprecated, pass a YowParallelLayer instead
+2015-03-27 17:40:12,507 Starting new HTTP connection (1): priapo
+2015-03-27 17:40:12,540 "393289431441@s.whatsapp.net","ygfg","Nessuna fermata trovata con nome "ygfg". Digita il numero o il nome corretto della fermata."
+2015-03-27 17:40:19,227 Starting new HTTP connection (1): priapo
+2015-03-27 17:40:19,257 "393289431441@s.whatsapp.net","58","Fermata 58 BEINETTElinea 117:44* 17:59*  linea 3517:50* 18:01*  * in tempo reale"
+2015-03-27 18:36:47,620 Wapper started...
+2015-03-27 18:36:47,620 Implicit declaration of parallel layers in a tuple is deprecated, pass a YowParallelLayer instead
+2015-03-27 18:38:20,437 Wapper started...
+2015-03-27 18:38:20,437 Implicit declaration of parallel layers in a tuple is deprecated, pass a YowParallelLayer instead
+2015-03-27 18:38:31,756 Starting new HTTP connection (1): priapo
+2015-03-27 18:38:31,785 "393494160725@s.whatsapp.net","88","Fermata 88 CHIESA SALUTElinea 218:43* 18:44*  * in tempo reale"
+2015-03-27 18:42:29,614 Starting new HTTP connection (1): priapo
+2015-03-27 18:42:29,655 "393421884433@s.whatsapp.net","27","Fermata 27 XVIII DICEMBRElinea 4618:43* 18:55*  linea 5618:46* 19:04*  linea 10N18:46* 18:55*  linea 1018:46* 18:53*  linea 1318:48* 18:55*  linea 7218:49* 19:06*  linea 72B18:56* 19:17  linea 4919:00* 19:13  * in tempo reale"
